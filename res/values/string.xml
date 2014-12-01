@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Square Ten</string>
+    <string name="back">undo</string>
+    <string name="reset">reset</string>
+    <string name="mybest">highest</string>
+    <string name="myworst">lowest</string>
+    <string name="number">#</string>
+    <string name="moves">#</string>
+    <string name="level">level</string>
+    <string name="actual">score</string>
+    <string name="backtoplay">back to square</string>
+    <string name="twitter_oauth_key">aEo8RWeV8hmgcMYZB0o1a3Dje</string>
+	<string name="twitter_oauth_secret">A4YQ1U9z2xQkeXW0Z4Jp7Lnu885ReTNBOyLoLXfrYlwWSdBVWg</string>
+	<string name="twitter_oauth_access_token">480292594-fV6aIy1f3datzxCYywG0LcYVrzusWNJAzWMGsA59</string>
+	<string name="twitter_oauth_access_token_secret">8SfnqdsU4Slse6Cj6Aylu3OTU1abIahJUtrvmqcnOv4TW</string>
+</resources>
